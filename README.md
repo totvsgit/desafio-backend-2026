@@ -56,8 +56,9 @@ Considere isso nas suas decisões arquiteturais.
 
 ## Dicas
 
-- Tente não fazer tudo em um único commit
-- O README importa tanto quanto o código — é onde vemos como você pensa
-- Assim que terminar, envie um e-mail avisando e não faça mais commits depois disso
+- Tente não fazer tudo em um único commit.
+- O README importa tanto quanto o código — é onde vemos como você pensa.
+- Versione seu teste no GitHub.
+- Assim que terminar, envie um e-mail com o link do repositório e não faça mais commits depois disso.
 
 **Boa sorte! Estamos ansiosos para ter você no time.**
