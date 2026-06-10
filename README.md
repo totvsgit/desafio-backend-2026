@@ -31,7 +31,7 @@ Considere isso nas suas decisões arquiteturais.
 |-------|--------------------|
 | R$ 30,00 | 1 nota de R$ 20,00 + 1 nota de R$ 10,00 |
 | R$ 80,00 | 1 nota de R$ 50,00 + 1 nota de R$ 20,00 + 1 nota de R$ 10,00 |
-| R$ 0,75 | 1 moeda de R$ 0,50 + 2 moedas de R$ 0,10 + 1 moeda de R$ 0,05 |
+| R$ 0,75 | 1 moeda de R$ 0,50 + 1 moeda de R$ 0,25 |
 
 ## Requisitos obrigatórios
 
