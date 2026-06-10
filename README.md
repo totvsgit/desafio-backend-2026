@@ -21,9 +21,9 @@ Considere isso nas suas decisões arquiteturais.
 
 ## Regras
 
-- Notas disponíveis: R$ 100,00 — R$ 50,00 — R$ 20,00 — R$ 10,00
-- Moedas disponíveis: R$ 0,50 — R$ 0,10 — R$ 0,05 — R$ 0,01
-- Entregar sempre o menor número de cédulas e moedas possível
+- Moedas: R$ 0,05 (cinco centavos), R$ 0,10 (dez centavos), R$ 0,25 (vinte e cinco centavos), R$ 0,50 (cinquenta centavos) e R$ 1,00 (um real).
+- Cédulas (notas): R$ 2, R$ 5, R$ 10, R$ 20, R$ 50, R$ 100 e R$ 200.
+- Entregar sempre o menor número de cédulas e moedas possível.
 
 **Exemplos:**
 
