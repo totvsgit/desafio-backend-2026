@@ -35,7 +35,7 @@ Considere isso nas suas decisões arquiteturais.
 
 ## Requisitos obrigatórios
 
-- .NET Core
+- .NET 10
 - Registro de todas as transações de troco (operador, valor pago, valor total, 
   troco calculado, data/hora)
 - Consulta do histórico de transações filtrando por período
